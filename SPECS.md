@@ -24,6 +24,7 @@ fn main() {
 ```
 
 ### Built-in
-`print(a, b, c, ...) //Prints variables to stdout`<br>
-`sqrt(a) //Takes the square root of a`<br>
-`pow(a, b) //Takes a to the power of b`<br>
+```
+print(a, b, c, ...) //Prints variables to stdout
+sqrt(a) //Takes the square root of a
+pow(a, b) //Takes a to the power of b```
