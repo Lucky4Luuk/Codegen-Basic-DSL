@@ -26,5 +26,5 @@ fn main() {
 ### Built-in
 ```
 print(a, b, c, ...) //Prints variables to stdout
-sqrt(a) //Takes the square root of a
-pow(a, b) //Takes a to the power of b```
+sqrt(a)             //Takes the square root of a
+pow(a, b)           //Takes a to the power of b```
